@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 # to run 
 # scrapy crawl imdb_spider -o movies.csv
 
